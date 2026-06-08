@@ -14,7 +14,7 @@ const Login = () => {
             <Box className="text-[#EDEBDD] w-8 h-8" />
           </div>
           <h1 className="text-[#EDEBDD] text-3xl font-bold tracking-widest uppercase">
-            Tainerstock
+            Inventory
           </h1>
           <p className="text-[#EDEBDD]/60 text-sm mt-1">
             Inventory Management
